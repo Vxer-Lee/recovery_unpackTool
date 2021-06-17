@@ -1,5 +1,5 @@
 # recovery_unpackTool
-recovery解压重打包工具
+recovery解压重打包工具  
 Windows系统下的一款Reocvery 和 boot分区解压重新打包工具，方便官改自定义的reocvery或root.
 
 ![avatar](assets/1.png)  
@@ -39,6 +39,7 @@ B / R        #选择boot 或 recovery
 ![avatar](assets/6.png)  
 
 解压出来的recovery分区
+
 ![avatar](assets/7.png)  
 
 更多功能请参考： https://forum.hovatek.com/thread-15817.html
